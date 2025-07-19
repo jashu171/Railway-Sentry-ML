@@ -139,28 +139,28 @@ railway-track-detection/
 
 ### Detection Examples
 
-**Multi-Worker Detection**
+**1.Multi-Worker Detection**
 ![Worker Detection](https://github.com/jashu171/Railway-Sentry-ML/blob/main/output%20Images/output-2.jpeg)
 *Railway workers detected with 79% and 83% confidence*
 
 
 
 
-**Safety Equipment Recognition**
+**2.Safety Equipment Recognition**
 ![Safety Detection](https://github.com/jashu171/Railway-Sentry-ML/blob/main/output%20Images/output-3.jpeg)
 *Simultaneous detection of workers (84%, 83%) and safety vests (70%, 62%)*
 
 
 
 
-**Helmet Detection**
+**3.Helmet Detection**
 ![Helmet Detection](https://github.com/jashu171/Railway-Sentry-ML/blob/main/output%20Images/output-4.jpeg)
 *Safety equipment including vests (70%) and helmets (62%) identified*
 
 
 
 
-**Surveillance Integration**
+**4.Surveillance Integration**
 ![Surveillance](https://github.com/jashu171/Railway-Sentry-ML/blob/main/output%20Images/output-5.jpeg)
 *Real-time monitoring with 87% confidence person detection*
 
