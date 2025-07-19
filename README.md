@@ -134,7 +134,7 @@ railway-track-detection/
 ## 🖼️ Demo Results
 
 ### Web Application Interface
-![Application Interface](Output%20images/web_interface_demo.png)
+![](https://github.com/jashu171/Railway-Sentry-ML/blob/main/output%20Images/output%20-1%20.jpeg) 
 *User-friendly upload interface with real-time processing*
 
 ### Detection Examples
