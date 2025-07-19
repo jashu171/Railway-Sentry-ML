@@ -131,6 +131,10 @@ railway-track-detection/
 
 ## 🖼️ Gallery
 
+output:
+![image](https://github.com/user-attachments/assets/9a0d000a-01e7-455c-95e3-b64c248458be)
+
+
 ### Sample Detection Results
 
 **Railway Track Analysis**
@@ -223,7 +227,3 @@ You can reach me through the following channels:
 - **GitHub:** [jashu171](https://github.com/jashu171)
   
 **Made with ❤️ for railway safety and automation**
-
-
-output:
-![image](https://github.com/user-attachments/assets/9a0d000a-01e7-455c-95e3-b64c248458be)
