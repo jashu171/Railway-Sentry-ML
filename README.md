@@ -58,7 +58,7 @@ railway-track-detection/
 ## 🚀 Installation
 
 ### Prerequisites
-- Python 3.8 or higher
+- Python 3.11 or higher
 - pip package manager
 
 ### Setup Steps
@@ -81,7 +81,7 @@ railway-track-detection/
    ```
 
 4. **Verify Model File**
-   - Ensure `best.pt` (YOLO weights) is in the project root
+   - Ensure `best.pt` (YOLO V11 weights) is in the project root
    - If missing, place your trained model file here
 
 5. **Create Required Directories**
@@ -115,7 +115,7 @@ railway-track-detection/
 
 ## 🤖 Model Information
 
-- **Architecture**: YOLOv8/YOLOv5 (Ultralytics)
+- **Architecture**: YOLOv9/YOLOv11 (Ultralytics)
 - **Training Data**: Custom railway track dataset
 - **Model File**: `best.pt` (PyTorch format)
 - **Input Size**: Automatically resized for optimal performance
@@ -177,7 +177,7 @@ railway-track-detection/
 ### Advanced Configuration
 ```python
 # Example model configuration in app.py
-model = YOLO('best.pt')
+model = YOLO_V11('best.pt')
 model.conf = 0.5  # Confidence threshold
 model.iou = 0.45  # IoU threshold
 ```
