@@ -5,7 +5,7 @@
 [![YOLO](https://img.shields.io/badge/YOLO-v11-red.svg)](https://ultralytics.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A state-of-the-art web application for automated detection and analysis of objects and personnel on railway tracks using YOLOv11 deep learning technology. This system enhances railway safety by providing real-time object detection capabilities for monitoring railway infrastructure, workers, and safety compliance.
+Developed a cutting-edge web application for real-time detection and analysis of objects and personnel on railway tracks, leveraging YOLOv11 deep learning technology. The system significantly enhances railway safety by enabling automated monitoring of infrastructure, worker activity, and safety compliance through advanced object detection and analytics.
 
 ![Railway Detection Demo](https://github.com/user-attachments/assets/9a0d000a-01e7-455c-95e3-b64c248458be)
 
