@@ -212,14 +212,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## 📞 Support
+## 📞 Contact Details
 
-If you encounter any issues or have questions:
+You can reach me through the following channels:
 
-1. Check the [Issues](https://github.com/your-username/railway-track-detection/issues) page
-2. Create a new issue with detailed information
-3. Contact the development team
-
+- **Email:** jashwanthboddupally@gmail.com  
+- **Phone:** +91 9010767269  
+- **Portfolio:** [https://jashu171.github.io/portfolio/](https://jashu171.github.io/portfolio/)  
+- **LinkedIn:** [Jashwanth Boddupally](https://www.linkedin.com/in/jashwanth-boddupally-64068b289/)  
+- **GitHub:** [jashu171](https://github.com/jashu171)
+  
 **Made with ❤️ for railway safety and automation**
 
 
