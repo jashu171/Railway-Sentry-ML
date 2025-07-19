@@ -17,5 +17,23 @@ This project provides a web application for detecting objects and features on **
 
 ## Folder Structure
 
+  project/
+├── app.py                  # Flask web server and inference code
+├── best.pt                 # Trained YOLO model weights
+├── static/
+│   ├── uploads/            # Stores uploaded images
+│   └── results/            # Stores prediction results
+├── templates/
+│   ├── home.html
+│   ├── prediction_page.html
+│   └── prediction_result_page_.html
+└── README.md
+
+
+
+
+
+
+
 output:
 ![image](https://github.com/user-attachments/assets/9a0d000a-01e7-455c-95e3-b64c248458be)
