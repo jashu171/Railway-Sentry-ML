@@ -1,4 +1,4 @@
-# 🚂 Railway Track Object Detection Using YOLO
+# 🚂 Railway Track Object Detection Using YOLO V11
 
 A comprehensive web application for automated detection and analysis of objects and features on railway tracks using state-of-the-art YOLO V11 deep learning technology.
 
